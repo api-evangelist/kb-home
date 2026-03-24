@@ -1,0 +1,7 @@
+aid: kb-home
+url: https://raw.githubusercontent.com/api-evangelist/kb-home/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.kb-home.com
