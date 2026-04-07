@@ -1,7 +1,12 @@
 aid: kb-home
-url: https://raw.githubusercontent.com/api-evangelist/kb-home/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/kb-home/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.kb-home.com
+description: >-
+  KB Home is one of the largest and most recognized homebuilders in the United States,
+  building single-family homes, townhomes, and condominiums for first-time, move-up,
+  and active adult buyers.
