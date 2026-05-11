@@ -46,6 +46,13 @@ common:
     url: https://www.youtube.com/user/KBHomeMedia
   - type: Pinterest
     url: https://www.pinterest.com/kbhome/
+  - type: Integrations
+    url: https://www.kbhome.com/partners
+integrations:
+  - name: KB Home
+  - name: VisualComfort
+  - name: Customer-Ranked National Homebuilder
+  - name: Spinner
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
