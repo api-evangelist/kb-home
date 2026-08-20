@@ -21,6 +21,12 @@ tags:
   - Construction
   - Fortune 500
   - Homebuilder
+  - Real-Estate
+  - Residential
+tags_raw:
+  - Construction
+  - Fortune 500
+  - Homebuilder
   - Real Estate
   - Residential
 url: https://raw.githubusercontent.com/api-evangelist/kb-home/refs/heads/main/apis.yml
