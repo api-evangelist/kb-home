@@ -5,6 +5,17 @@ description: >-
   States, building single-family homes, townhomes, and condominiums for
   first-time, move-up, and active adult buyers across more than 45 markets.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
