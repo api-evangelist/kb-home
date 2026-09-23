@@ -1,7 +1,9 @@
 ---
 title: KB HOME NAMED TO THE 2026 TIME100 MOST ...
 url: https://www.prnewswire.com/news-releases/kb-home-named-to-the-2026-time100-most-influential-companies-list-302779403.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KB Home" press release artificial intelligence'
 position: 4
 source: serpapi-google

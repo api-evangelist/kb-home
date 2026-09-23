@@ -1,7 +1,9 @@
 ---
 title: KB Home Launches Company-wide AI-powered Chatbot ...
 url: https://investor.kbhome.com/company-news/news-releases/press-release-details/2020/KB-Home-Launches-Company-wide-AI-powered-Chatbot-Platform-Designed-to-Deliver-a-Modern-Real-time-Online-Customer-Experience/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KB Home" press release artificial intelligence'
 position: 2
 source: serpapi-google

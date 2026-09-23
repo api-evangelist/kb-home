@@ -1,7 +1,9 @@
 ---
 title: KB Home Partners with AtlasRTX for Company-Wide AI- ...
 url: https://atlasrtx.com/press-release/kb-home-partners-with-atlasrtx-for-company-wide-ai-powered-chatbot-2/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KB Home" press release artificial intelligence'
 position: 1
 source: serpapi-google
