@@ -32,7 +32,7 @@ tags:
   - Construction
   - Fortune 500
   - Homebuilder
-  - Real-Estate
+  - Real Estate
   - Residential
 tags_raw:
   - Construction
@@ -40,6 +40,7 @@ tags_raw:
   - Homebuilder
   - Real Estate
   - Residential
+  - Real-Estate
 url: https://raw.githubusercontent.com/api-evangelist/kb-home/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-04-28'
